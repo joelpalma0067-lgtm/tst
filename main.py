@@ -108,6 +108,7 @@ if __name__ == "__main__":
     print("🚀 --- BOT INICIADO EN LA NUBE (RAILWAY) ---")
     while True:
         monitorear()
-        print("💤 Esperando 30 segundos para la siguiente revisión...")
-        time.sleep(30)
+        print("💤 Esperando 10 segundos para la siguiente revisión...")
+        time.sleep(10)
+
 
