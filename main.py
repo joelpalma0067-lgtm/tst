@@ -3,7 +3,7 @@ from email.message import EmailMessage
 
 # --- CONFIGURACIÓN ---
 MI_CORREO = "zerokhyt@gmail.com"
-MI_CLAVE_16 = "gkllljgczgycrwkd"
+MI_CLAVE_16 = "wblebsdaercnceav"
 
 def descargar_audio(asunto):
     # Buscamos solo el audio de mejor calidad
@@ -74,6 +74,7 @@ if __name__ == "__main__":
     while True:
         ejecutar_bot()
         time.sleep(30)
+
 
 
 
