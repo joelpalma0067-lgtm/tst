@@ -4,7 +4,7 @@ from email.message import EmailMessage
 
 # --- CONFIGURACIÓN ---
 MI_CORREO = "zerokhyt@gmail.com"
-MI_CLAVE_16 = "gkllljgczgycrwkd"
+MI_CLAVE_16 = "ifjxwcsnyoledofe"
 
 def decodificar_texto(texto):
     if not texto: return "Sin_Asunto"
@@ -110,3 +110,4 @@ if __name__ == "__main__":
         monitorear()
         print("💤 Esperando 30 segundos para la siguiente revisión...")
         time.sleep(30)
+
